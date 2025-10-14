@@ -19,7 +19,7 @@ This repository contains a complete workflow for:
 
 ---
 
-## Laval Lab Transferability
+## Labonete lab Transferability
 
 ### 1. Computational Neuroscience & Circuit Biology
 - **Network Modeling:** Synthetic nodes/edges = neurons and their functional connectivity in mPFC.
